@@ -1,0 +1,24 @@
+{
+  "name": "firetest",
+  "version": "1.0.0",
+  "description": "Projeto de um chat para aprender firebase com agularJS utilizando o plugin angularfire.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Regis96/Firetest.git"
+  },
+  "author": "Regis96",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Regis96/Firetest/issues"
+  },
+  "homepage": "https://github.com/Regis96/Firetest#readme",
+  "dependencies": {
+    "angular": "^1.7.8",
+    "angularfire": "^2.3.0",
+    "grunt": "^1.0.4"
+  }
+}
